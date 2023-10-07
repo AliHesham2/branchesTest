@@ -8,8 +8,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.i("TAG", "onCreate2: ")
-        Log.i("TAG", "onCreate2: ")
-        Log.i("TAG", "onCreate2: ")
+    }
+    private fun branchFromBranchFromMaster(){
+
     }
 }
