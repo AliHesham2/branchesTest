@@ -11,5 +11,9 @@ class MainActivity : AppCompatActivity() {
     }
     private fun masterBranch(){
 
+
+    }
+    private fun branchFromMaster(){
+
     }
 }
