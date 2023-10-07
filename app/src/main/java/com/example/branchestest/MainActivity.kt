@@ -9,14 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
     }
-    private fun branchFromMaster(){
 
-    }
-    private fun branchFromBranchFromMaster() {
-
-    }
-    private fun masterBranch(){
-
-
-    }
 }
